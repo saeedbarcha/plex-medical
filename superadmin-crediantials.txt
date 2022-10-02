@@ -1,0 +1,16 @@
+To run this app your machine you need to follow below steps
+
+step1)=> install nodejs 
+step2)=> install react
+step3)=> install mongodb
+
+step4)=> then install dependencies in client and server folder 
+step5)=> to install dependencies follow the steps mentioned in the readme.md file in each(client and server) folder
+
+once your app will run you have to login first use below crediantials to login as superadmin
+
+superadmin crediantials
+......................................
+email: plexx@gmail.com
+password: superadmin123
+......................................
